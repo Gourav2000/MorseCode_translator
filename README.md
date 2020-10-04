@@ -7,8 +7,10 @@ more awesome ideas about feel free to add your contributions here ;-)
 
 ## Screenshots
 ![ss1](https://github.com/Gourav2000/MorseCode_translator/blob/master/screenshots/1.png)
+<br>
 ![ss2](https://github.com/Gourav2000/MorseCode_translator/blob/master/screenshots/2.png)
+<br>
 ![ss3](https://github.com/Gourav2000/MorseCode_translator/blob/master/screenshots/3.png)
 
 ## Exe file
-You can download exe file from here https://github.com/Gourav2000/MorseCode_translator/blob/master/dist/morse.exe?raw=true and it's not harmful for your device by the way lol!
+You can test it out directly by downloading the exe file from here https://github.com/Gourav2000/MorseCode_translator/blob/master/dist/morse.exe?raw=true and it's not harmful for your device by the way lol!
