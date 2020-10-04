@@ -4,7 +4,9 @@ def decrypt(msg,MORSE_CODE_DICTIONARY):
     dic= dict()
     for i,j in zip(li1,li2):
         dic[j]=i
-    wordlist=msg.split("/")
+    if msg[len(msg)-1]==" ":
+        msg=msg[:-1]
+    wordlist=msg.split(" / ")
     LetterList=list()
     DecryptedMessage=list()
     for  i in wordlist:
@@ -20,4 +22,5 @@ def decrypt(msg,MORSE_CODE_DICTIONARY):
         Word=""
     return DecryptedMessage
 
+    
 

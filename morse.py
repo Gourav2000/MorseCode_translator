@@ -102,7 +102,7 @@ class Decrypter:
             result_List=decrypt.decrypt(code,MORSE_CODE_DICT)
             stri=""
             for i in result_List:
-                stri = stri+i
+                stri = stri+i+" "
             eng_text.insert('end',stri)
             eng_text.config(state="disabled")
 
